@@ -1,0 +1,10 @@
+{
+  "apps": [{
+    "name": "cat-log-api-prod",
+    "script": "yarn",
+    "args": "start",
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }]
+}

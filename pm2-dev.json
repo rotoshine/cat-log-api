@@ -1,0 +1,7 @@
+{
+  "apps": [{
+    "name": "cat-log-api-dev",
+    "script": "yarn",
+    "args": "dev"
+  }]
+}
